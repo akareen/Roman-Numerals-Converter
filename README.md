@@ -10,4 +10,4 @@ The project *roman_numeral_converter.py* is a simple converter for converting Ro
 
 As it is a first attempt the code isn't as streamlined as I would like it to be. I tried to shorten one of the functions but with the limited experience that I currently have I couldn't get it any lower than 27 lines.
 
-Thanks for reading 😃
+Thanks for reading 
