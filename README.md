@@ -2,7 +2,7 @@
 
 ##### Introduction
 
-I have just begun my path of learning the python programming language as part of the INFO1110: Introduction to Computer Science course I am taking at my University. I've read that the best way to learn truly python is to break out of the tutorial hell and attempt independent projects without any brief so this is my first attempt at creating an indepedent project.
+I have just begun my path of learning the python programming language as part of the INFO1110: Introduction to Computer Science course I am taking at my University. I've read that the best way to truly learn python is to break out of the tutorial hell and attempt independent projects without any brief, so this is my first attempt at creating an indepedent project.
 
 ##### Project Description
 
